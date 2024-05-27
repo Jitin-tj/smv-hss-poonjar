@@ -25,9 +25,9 @@ body{
     display: block;
     color:#000;
     text-align: center;
-    padding: 14px 4vw;
+    padding: 14px 3.5vw;
     text-decoration: none;
-    font-size: 3.5vw;
+    font-size: 3vw;
     font-weight: 600; 
 }.topnav a:hover {
     background-color: rgb(71, 67, 67);
