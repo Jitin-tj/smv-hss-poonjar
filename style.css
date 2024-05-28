@@ -20,6 +20,7 @@ body{
     border: 3px solid;
     border-color: #000;
     border-radius: 6vw;
+    width: 110%;
 }.topnav a {
     float: left;
     display: block;
