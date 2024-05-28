@@ -170,6 +170,8 @@ body{
         width:70vw
     }.second-heading{
         text-align: center;
+    }header{
+        margin-left: 1vw;
     }
 }@media (max-width: 400px){
     .web_sidebar{
@@ -180,6 +182,8 @@ body{
         width:65vw
     }.second-heading{
         text-align: center;
+    }header{
+        margin-left: 0vw;
     }
 }.image-container {
     position: relative;
