@@ -5,7 +5,7 @@ body{
 }header{
     position: fixed;
     margin-top: 8vw;
-    margin-left: 28vw;
+    margin-left: 4vw;
 }#smv-header{
     font-size:8vw;
     color: #FFF;
@@ -20,7 +20,6 @@ body{
     border: 3px solid;
     border-color: #000;
     border-radius: 6vw;
-    width: 140%;
 }.topnav a {
     float: left;
     display: block;
