@@ -5,7 +5,7 @@ body{
 }header{
     position: fixed;
     margin-top: 8vw;
-    margin-left: 3.5vw;
+    margin-left: 7vw;
 }#smv-header{
     font-size:8vw;
     color: #FFF;
@@ -124,6 +124,8 @@ body{
         width:75vw
     }.second-heading{
         margin-left: 1em;
+    }header{
+        margin-left: 5vw;
     }
 }@media (max-width: 800px){
     .web_sidebar{
@@ -147,7 +149,7 @@ body{
     }#about{
         padding-left: 5em;
     }header{
-        margin-left: 2vw;
+        margin-left: 3vw;
     }
 }@media (max-width: 600px){
     .web_sidebar{
@@ -171,7 +173,7 @@ body{
     }.second-heading{
         text-align: center;
     }header{
-        margin-left: 1vw;
+        margin-left: 2vw;
     }
 }@media (max-width: 400px){
     .web_sidebar{
