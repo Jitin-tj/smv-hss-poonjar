@@ -146,6 +146,8 @@ body{
         margin-left: 0.5em;
     }#about{
         padding-left: 5em;
+    }header{
+        margin-left: 2vw;
     }
 }@media (max-width: 600px){
     .web_sidebar{
